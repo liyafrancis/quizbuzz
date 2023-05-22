@@ -58,7 +58,7 @@ const Moderator = () => {
       <div style={{textAlign:"left"}}>
         <label >
         <input
-          type="checkbox"  
+          type="checkbox1"  
         />
         Remember Me!
       </label>
